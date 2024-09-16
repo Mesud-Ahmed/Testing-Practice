@@ -1,3 +1,5 @@
+import { reverseString } from "./reverseString"
+
 describe('revvereString', () => {
 
     test('reverses a string without capitalizing', () => {

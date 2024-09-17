@@ -1,4 +1,4 @@
-import { calculator } from "./calculator"
+import { calculator } from "../src/calculator"
 
 describe("calculator Object", () => {
     test("handles 2 positive numbers", () => {

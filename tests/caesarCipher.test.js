@@ -1,4 +1,4 @@
-import { caesarCipher } from "./caesarCipher"
+import { caesarCipher } from "../src/caesarCipher"
 
 describe("caesarCipher function", () => {
     test("test wrapping from z to a", () => {
